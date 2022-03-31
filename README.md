@@ -1,2 +1,2 @@
-# SWELL-DL
+# SWELL DL
 SWELL Deep Learning Multiclass Classification
